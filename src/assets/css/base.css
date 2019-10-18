@@ -1,0 +1,17 @@
+.mint-header{
+    height: 1rem;
+    border-radius:0 0 5px 5px;
+    background:url(../img/logo2.png) no-repeat 0.2rem center #2948cf;
+    background-size: 2.94rem 0.51rem;
+}
+html{
+  background: #f0f2f6;
+  overflow-x: hidden;
+}
+html,*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.24rem;
+}
+.content{
+    background: #fff;
+}
